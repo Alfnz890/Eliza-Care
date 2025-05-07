@@ -9,3 +9,5 @@ With Eliza Care, you can easily browse a diverse network of licensed physicians,
 Experience the future of healthcare with Eliza Care – your trusted partner for accessible and reliable mobile doctor consultations. Download now and prioritize your well-being.
 
 ![Banner Ad](banner.png)
+
+![Banner Ad](design.png)
